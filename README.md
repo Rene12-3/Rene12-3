@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6D9,35:C084FC,70:67E8F9,100:A7F3D0&height=190&section=header&text=Hi%20there,%20I'm%20Ren%C3%A9%20%F0%9F%AB%A7&fontColor=ffffff&fontSize=46&fontAlignY=35&desc=Machine%20Learning%20%2B%20Data%20%2B%20Pretty%20Problem%20Solving&descAlignY=58&descSize=18&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6D9,35:C084FC,70:67E8F9,100:A7F3D0&height=190&section=header&text=Hi%20there,%20I'm%20Ren%C3%A9%20%F0%9F%AB%A7&fontColor=ffffff&fontSize=46&fontAlignY=35&desc=Machine%20Learning%20%2B%20Data%20%2B%20Creative%20Problem%20Solving&descAlignY=58&descSize=18&animation=twinkling" width="100%" />
 
 <div align="center">
 
@@ -6,7 +6,7 @@
 
 ### Machine Learning Explorer • Data Storyteller • Curious Builder 🌸🤖📊
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2600&pause=850&color=F472B6&center=true&vCenter=true&width=950&lines=Turning+messy+data+into+meaningful+models+%F0%9F%92%AB;Learning+machine+learning+with+curiosity+and+care+%F0%9F%A7%A0;Building+pretty%2C+useful%2C+data-powered+projects+%F0%9F%8C%B7;Data+is+my+playground.+Models+are+my+tools.+%F0%9F%A4%96" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2600&pause=850&color=F472B6&center=true&vCenter=true&width=950&lines=Turning+messy+data+into+meaningful+models+%F0%9F%92%AB;Learning+machine+learning+with+curiosity+and+care+%F0%9F%A7%A0;Building+clear%2C+useful%2C+data-powered+projects+%F0%9F%8C%B7;Data+is+my+playground.+Models+are+my+tools.+%F0%9F%A4%96" alt="Typing animation" />
 
 <br/>
 
@@ -40,7 +40,7 @@ Right now, my world is full of:
 - 📊 Data analysis, visualization, and storytelling
 - 🧹 Cleaning messy datasets until they behave
 - 🧠 Learning how algorithms think, fail, and improve
-- 🌸 Making technical projects feel human, pretty, and easy to read
+- 🌸 Making technical projects feel human, polished, and easy to read
 
 ---
 
@@ -94,7 +94,7 @@ I’m especially interested in how machine learning can help us find patterns, m
 ### 🌈 Visualization & Storytelling
 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Charts-F9A8D4?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-Pretty%20Plots-A78BFA?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-Clean%20Plots-A78BFA?style=for-the-badge)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboards-FDE047?style=for-the-badge&logo=powerbi&logoColor=111827)
 ![Tableau](https://img.shields.io/badge/Tableau-Insights-38BDF8?style=for-the-badge&logo=tableau&logoColor=white)
 
@@ -129,7 +129,7 @@ I’m especially interested in how machine learning can help us find patterns, m
       <p>Transforming messy raw datasets into something structured, useful, and ready for analysis.</p>
     </td>
     <td width="50%">
-      <h3>🌸 Pretty Technical READMEs</h3>
+      <h3>🌸 Polished Technical READMEs</h3>
       <p>Documentation that feels friendly, polished, and easy to follow — because presentation matters too.</p>
     </td>
   </tr>
@@ -221,7 +221,7 @@ If you love data, machine learning, or building things that make complex ideas f
 <br/>
 <br/>
 
-> *“Pretty projects can still be powerful. Powerful projects can still be kind.”* 🫧
+> *“Clear projects can still be powerful. Powerful projects can still be kind.”* 🫧
 
 </div>
 
