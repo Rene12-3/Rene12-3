@@ -10,10 +10,10 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+<a href="https://www.linkedin.com/in/renebosire/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:YOUR_EMAIL@example.com">
+<a href="mailto:bosirerene@gmail.com">
   <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <img src="https://komarev.com/ghpvc/?username=Rene12-3&style=for-the-badge&label=Profile+Views&color=06B6D4" alt="Profile views" />
@@ -188,8 +188,8 @@ If you care about building useful things with data and code, we already speak th
 
 <br/>
 
-💼 [Connect on LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/) &nbsp; | &nbsp;
-📧 [Email Me](mailto:YOUR_EMAIL@example.com) &nbsp; | &nbsp;
+💼 [Connect on LinkedIn](https://www.linkedin.com/in/renebosire/) &nbsp; | &nbsp;
+📧 [Email Me](mailto:bosirerene@gmail.com) &nbsp; | &nbsp;
 🌍 Building from Kenya, collaborating globally
 
 <br/>
